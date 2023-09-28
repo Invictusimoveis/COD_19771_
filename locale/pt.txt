@@ -1,0 +1,19 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_A53C130D_B7AD_2F99_41C4_8828D3C9BFF3.label = Acesso aos quartos
+panorama_8EBAF555_AE61_2199_41DF_AE1088D0854B.label = Banheiro
+panorama_8F2059F3_AE61_2099_41C4_E446FDC2A29A.label = Cozinha
+panorama_8F217D17_AE60_E19A_41CA_6068C6707DC4.label = Entrada
+panorama_8F21D019_AE60_DF89_41E0_B40A40586F30.label = Quarto 1
+panorama_8F2193AE_AE63_208A_41DB_42D2CE0FB6A3.label = Quarto 2
+panorama_8F2C17BF_AE63_6089_41E4_3E125723B367.label = Sacada
+
+## Tour
+
+### Description
+
+### Title
+tour.name = AV INDUSTRIAL UP LIFE_19771
